@@ -8,7 +8,7 @@
     "yarn": ">=1"
   },
   "bin": {
-    "kcd-scripts": "dist/index.js"
+    "s40-scripts": "dist/index.js"
   },
   "scripts": {
     "test": "node src test",
